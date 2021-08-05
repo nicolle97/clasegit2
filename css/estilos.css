@@ -1,0 +1,22 @@
+h1{
+    color: rgb(71, 218, 193);
+    font-style: italic;
+}
+
+img{
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+    display: block;
+}
+
+a{
+    color: rgb(113, 176, 201);
+    font-style: initial;
+}
+
+label{
+    color: rgb(243, 54, 133);
+    font-style: oblique;
+}
+
